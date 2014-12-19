@@ -24,6 +24,7 @@
 
 /**
  * Helper functions
+ * @param string $message
  */
 function show($message) {
 	global $verbose;
