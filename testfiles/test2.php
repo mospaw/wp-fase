@@ -35,3 +35,4 @@
 			</td>
 		</tr>
 <?php endif; // is_taxonomy_hierarchical() ?>
+

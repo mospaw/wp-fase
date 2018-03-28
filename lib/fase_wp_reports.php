@@ -4,9 +4,9 @@
  *
  * This file is part of the WP-FASE, The WordPress Filter and Action Syntax Extractor
  *
- * https://github.com/crowdfavorite/WP-FASE
+ * https://github.com/mospaw/WP-FASE
  *
- * Copyright 2013-2014 Crowd Favorite, Ltd. and Chris Mospaw
+ * Copyright 2013-2018 Chris Mospaw
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
  * this file except in compliance with the License. You may obtain a copy of the

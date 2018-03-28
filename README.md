@@ -42,7 +42,7 @@ Some options, such as the directory, are required. The following options are ava
 
 # License
 
-Copyright 2013-2014 Crowd Favorite and Chris Mospaw
+Copyright 2013-2018 Crowd Favorite and Chris Mospaw
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the license at:
 
